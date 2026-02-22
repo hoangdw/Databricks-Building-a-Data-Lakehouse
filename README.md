@@ -9,3 +9,5 @@ Silver Layer: Cleaned and enriched data. Data in this layer is transformed, vali
 
 Gold Layer: Aggregated and business-ready data. This layer contains curated datasets optimized for reporting, dashboards, and machine learning.
 By structuring data in these layers, the medallion architecture ensures data quality, simplifies governance, and enables efficient, scalable analytics across the organization.
+
+Credits to https://github.com/DataWithBaraa/sql-data-warehouse-project :)
